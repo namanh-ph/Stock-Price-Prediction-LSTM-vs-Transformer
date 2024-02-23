@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-The topic of predicting stock market price has numerous approaches, with a variety of models to choose and implement, in order to reach the objectives. In this project, my aim is to evaluate and compare the performance of two neural network architecture in predicting the closing price of a stock: LSTM (Long Short-Term Memory) and Transformer.
+The topic of predicting stock market price has numerous approaches, with a variety of models to choose and implement. In this project, my aim is to evaluate and compare the performance of two neural network architecture in predicting the closing price of a stock: LSTM (Long Short-Term Memory) and Transformer.
 
 ## 2. Result
 
